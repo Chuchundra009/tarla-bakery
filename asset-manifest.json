@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarla-bakery/static/css/main.cc96051f.css",
+    "main.js": "/tarla-bakery/static/js/main.b78569b9.js",
+    "static/js/787.9b9d24ef.chunk.js": "/tarla-bakery/static/js/787.9b9d24ef.chunk.js",
+    "static/media/production_id_4109585 (1080p).mp4": "/tarla-bakery/static/media/production_id_4109585 (1080p).a50b06f32d58bb52c80c.mp4",
+    "static/media/background.jpg": "/tarla-bakery/static/media/background.693da78cb55cfe360c08.jpg",
+    "static/media/bread.png": "/tarla-bakery/static/media/bread.158dd6be6b423a9a623e.png",
+    "static/media/inst.svg": "/tarla-bakery/static/media/inst.0f3d68662a32ccf9910643050e16d1aa.svg",
+    "static/media/tarla.svg": "/tarla-bakery/static/media/tarla.0d595eca8614acda8bf9bd7b0b80ee97.svg",
+    "static/media/x.svg": "/tarla-bakery/static/media/x.7a9a50499ce6113e2ef80e94a413a2fc.svg",
+    "static/media/cart.svg": "/tarla-bakery/static/media/cart.35186a180fb7399b2aa896c1b0451f00.svg",
+    "static/media/facebook.svg": "/tarla-bakery/static/media/facebook.e5d288c02461f707c512e01ed82dc809.svg",
+    "index.html": "/tarla-bakery/index.html",
+    "main.cc96051f.css.map": "/tarla-bakery/static/css/main.cc96051f.css.map",
+    "main.b78569b9.js.map": "/tarla-bakery/static/js/main.b78569b9.js.map",
+    "787.9b9d24ef.chunk.js.map": "/tarla-bakery/static/js/787.9b9d24ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc96051f.css",
+    "static/js/main.b78569b9.js"
+  ]
+}
